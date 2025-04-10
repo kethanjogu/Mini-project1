@@ -1,7 +1,9 @@
 🎨 Artist odyssey – The Ultimate Platform for Artists
-ArtistHub is a full-featured web application designed to provide a digital space where artists from all domains can showcase their talent, sell their creations, and gain popularity. It’s a unique blend of a social media platform and an e-commerce site, tailored specifically for the creative community.
+ArtistHub is a full-featured web application designed to provide a digital space where artists from all domains can showcase their talent, sell their creations,
+and gain popularity. It’s a unique blend of a social media platform and an e-commerce site, tailored specifically for the creative community.
 
 Whether you're a painter, musician, photographer, fashion designer, or any other kind of artist — ArtistHub is your all-in-one platform to grow, connect, and thrive.
+
 
 
 🌟 Key Features
@@ -20,11 +22,13 @@ Whether you're a painter, musician, photographer, fashion designer, or any other
 📸 Media Uploads – Upload images, videos, audio, and more to showcase your work.
 
 
+
 💡 Purpose
-The goal of ArtistHub is to empower artists by giving them visibility, tools to sell, and a creative community to grow in. No more switching between platforms to connect and monetize — ArtistHub does it all.
+The goal of ArtistHub is to empower artists by giving them visibility, tools to sell, and a creative community to grow in. 
+No more switching between platforms to connect and monetize — ArtistHub does it all.
 
 
-🔧 Tech Stack
+🔧Tech Stack
 Tech	Description
 HTML	Structure and content
 CSS	Styling and responsiveness
@@ -32,12 +36,16 @@ JavaScript	Interactive frontend behavior
 PHP	Backend scripting and logic
 PostgreSQL	Database for user/content data
 
+
+
 🔒 Authentication & Security
 Secure login & registration system using PHP sessions
 
 Basic form validation and sanitation to prevent SQL injection
 
 Future scope: implement OAuth login, two-factor authentication, and CSRF protection
+
+
 
 📌 Future Roadmap
 ✅ Mobile responsive version
@@ -51,5 +59,10 @@ Future scope: implement OAuth login, two-factor authentication, and CSRF protect
 📈 Analytics dashboard for artists
 
 🌍 Multi-language support
+
+
+📬 Contact
+Developer: [Jogu Sai kethan]
+Email: saikethanjogu@gmail.com
 
 
